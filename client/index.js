@@ -6,7 +6,6 @@ import ReactDOM from 'react-dom';
 import { BrowserRouter as Router, Route } from 'react-router-dom';
 
 import Home from './components/Home.jsx';
-//import Nav from './components/Nav.jsx';
 import PageOne from './components/PageOne.jsx';
 import PageTwo from './components/PageTwo.jsx';
 
